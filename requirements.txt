@@ -1,0 +1,5 @@
+### 📄 `requirements.txt`
+```txt
+openai
+pyautogui
+pyperclip
