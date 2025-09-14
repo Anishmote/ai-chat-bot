@@ -3,7 +3,20 @@
 This Python project is an **AI-powered auto chat bot** that uses **ChatGPT (OpenAI API)** along with **PyAutoGUI** and **Pyperclip** to automatically read messages from a chat window and send intelligent replies.  
 
 It simulates human typing by copying AI-generated responses to the clipboard and pasting them into the chat app.  
+---
+🎤 Usage
 
+Open WhatsApp Web (or another chat app).
+
+Start the bot → it will:
+
+Select chat messages
+
+Copy text to clipboard
+
+Send it to ChatGPT
+
+Paste AI’s reply back into the chat
 ---
 
 ## 🚀 Features  
